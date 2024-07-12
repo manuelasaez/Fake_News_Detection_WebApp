@@ -1,1 +1,1 @@
-# Fake_News_Detection-_WebApp
+# Fake_News_Detection_WebApp
