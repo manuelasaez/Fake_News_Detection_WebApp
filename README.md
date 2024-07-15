@@ -20,3 +20,7 @@ Our fake news detection web app is built using Python and incorporates several p
 
 ## Conclusion
 By integrating state-of-the-art machine learning techniques and creating a seamless user experience, our fake news detection web app aims to be a valuable tool for news portals and readers alike, promoting the dissemination of accurate and trustworthy information.
+
+
+More information about the project can be found in the complete documentation on Notion: [Fake_news_doc](https://www.notion.so/Fake-News-Project-Documentation-8dfd79c111b04254bc67b1c83e70a940?pvs=4)
+
